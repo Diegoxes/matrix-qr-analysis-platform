@@ -1,0 +1,4 @@
+# Ignorar archivos de configuración sensibles
+matrix-auth-api/.env
+matrixes-qr-api/.env
+qr-analysis-api/.env
