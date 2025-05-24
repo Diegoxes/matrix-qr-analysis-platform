@@ -1,4 +1,4 @@
-# Matrix QR Analysis Platform
+# Matrix QR Analysis Platform AWS
 
 Plataforma compuesta por microservicios para autenticación, análisis de códigos QR y factorización, desplegada sobre AWS Elastic Beanstalk. Esta arquitectura permite la separación de responsabilidades y escalabilidad de los servicios.
 
